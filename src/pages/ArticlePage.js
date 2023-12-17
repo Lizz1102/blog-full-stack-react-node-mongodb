@@ -9,8 +9,8 @@ const ArticlePage = () => {
   return (
     <>
       <h1>{article.title}</h1>
-      //Note: don't use index as key like this if paragraphs may change 
       {article.content.map((paragraph, index) => (
+        //Note: don't use index as key like this if paragraphs may change
         <p key={index}>{paragraph}</p>
       ))}
     </>
