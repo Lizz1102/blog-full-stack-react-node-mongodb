@@ -114,4 +114,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Credits
 
 - [Shaun Wassell - React: Creating and Hosting a Full-Stack Site](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-15153869/)
-- [react.dev](https://react.dev/reference/react)
+- [React Reference](https://react.dev/reference/react)
+- [Node.js Documentation](https://nodejs.org/docs/latest/api/)
