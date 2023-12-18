@@ -15,7 +15,7 @@ Phase 1: Documenting important steps.
 
 - Node.js
 
-## Todo
+## TODOs
 
 ### Short-term
 
