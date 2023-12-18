@@ -18,7 +18,8 @@ Phase 1: Documenting important steps.
 
 ### Backend
 
-- Node.js, Express.js
+- Node.js
+- Created node.js server with Express aka Express server 
 - 
 
 ## TODOs
