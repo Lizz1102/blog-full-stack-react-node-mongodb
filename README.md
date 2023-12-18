@@ -1,4 +1,4 @@
-# Personal Blog Site - (Lizzie's) InHerElement 
+# Personal Blog Site - LizaInHerElement 
 
 Simplicity. Showcase full-stack web app development. Coding/Architecture Best Practices. Buy domain. Build a personal brand. 
 
