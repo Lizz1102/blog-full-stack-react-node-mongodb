@@ -1,4 +1,41 @@
-# Getting Started with Create React App
+# Personal Blog Site - (Lizzie's) InHerElement 
+
+Simplicity. Showcase full-stack web app development. Coding/Architecture Best Practices. Buy domain. Build a personal brand. 
+
+## Project Ongoing Documentation Draft
+
+Phase 1: Documenting important steps. 
+
+### Frontend
+
+- React
+- React Routing
+
+### Backend
+
+- Node.js
+
+## Todo
+
+### Short-term
+
+- [ ] Refactor for scalability, testability, and maintainability.
+- [ ] Update the UI design for better accessibility.
+- [ ] Write unit tests for the user authentication module.
+
+### Long-term
+
+- [ ] AI assistant to mimic my personality and chat with visitors, take appointments, etc (what else, keep it simple).
+- [ ] Integrate a notification system for real-time updates.
+- [ ] Enhance the documentation with detailed usage examples.
+
+### Visual Aspect
+
+- [ ] Pretty UI
+- [ ] Media (pictures, videos)
+- [ ] Smooth navigation 
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +105,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Credits
+
+- [Shaun Wassell]([https://github.com/library1](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-15153869/)https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-15153869/)
+- [react.dev]([https://github.com/library2](https://react.dev/reference/react)https://react.dev/reference/react)
