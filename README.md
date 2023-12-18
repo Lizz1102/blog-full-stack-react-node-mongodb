@@ -6,6 +6,11 @@ Simplicity. Showcase full-stack web app development. Coding/Architecture Best Pr
 
 Phase 1: Documenting important steps. 
 
+### Domain 
+
+- Registered domain on GoDaddy
+- lizainherelement.ca  
+
 ### Frontend
 
 - React
@@ -19,15 +24,15 @@ Phase 1: Documenting important steps.
 
 ### Short-term
 
-- [ ] Refactor for scalability, testability, and maintainability.
-- [ ] Update the UI design for better accessibility.
-- [ ] Write unit tests for the user authentication module.
+- [ ] Refactor for scalability, testability, and maintainability
+- [ ] Update the UI design for better accessibility
+- [ ] Write unit tests for the user authentication module
 
 ### Long-term
 
-- [ ] AI assistant to mimic my personality and chat with visitors, take appointments, etc (what else, keep it simple).
-- [ ] Integrate a notification system for real-time updates.
-- [ ] Enhance the documentation with detailed usage examples.
+- [ ] AI assistant to mimic my personality and chat with visitors, take appointments, etc (what else, keep it simple)
+- [ ] Integrate a notification system for real-time updates
+- [ ] Enhance the documentation with detailed usage examples
 
 ### Visual Aspect
 
