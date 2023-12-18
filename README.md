@@ -18,7 +18,8 @@ Phase 1: Documenting important steps.
 
 ### Backend
 
-- Node.js
+- Node.js, Express.js
+- 
 
 ## TODOs
 
@@ -116,3 +117,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - [Shaun Wassell - React: Creating and Hosting a Full-Stack Site](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-15153869/)
 - [React Reference](https://react.dev/reference/react)
 - [Node.js Documentation](https://nodejs.org/docs/latest/api/)
+- [Routing with Express](https://expressjs.com/en/guide/routing.html) 
