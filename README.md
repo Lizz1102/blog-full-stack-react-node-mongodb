@@ -23,7 +23,7 @@ Phase 1: Documenting important steps.
 - Created node.js server with Express aka Express server 
 - Commands to set up an express server: cd ..;  mkdir my-blog-backend; code .\my-blog-backend\; npm init -y; npm install express; node src/server.js
 - Express server API testing - Postman
-- npm install nodemon --save-dev; npx nodemon src/server.js;  //watch changes in dev environment automatically   
+- npm install nodemon --save-dev; npx nodemon src/server.js; npm run dev  //watch changes in dev environment automatically   
 
 ## TODOs
 
