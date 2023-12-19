@@ -21,7 +21,8 @@ Phase 1: Documenting important steps.
 
 - Node.js
 - Created node.js server with Express aka Express server 
-- Commands to set up an express server: cd ..,  mkdir my-blog-backend, code .\my-blog-backend\, npm init -y, npm install express, node src/server.js 
+- Commands to set up an express server: cd ..,  mkdir my-blog-backend, code .\my-blog-backend\, npm init -y, npm install express, node src/server.js
+- Express server API testing - Postman   
 
 ## TODOs
 
