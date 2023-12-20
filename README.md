@@ -1,4 +1,4 @@
-# Personal Blog Site - LizaInHerElement 
+# Personal Blog Site - TBD 
 
 Simplicity. Showcase full-stack web app development. Coding/Architecture Best Practices. Buy domain. Build a personal brand. 
 
@@ -8,8 +8,7 @@ Phase 1: Documenting important steps.
 
 ### Domain 
 
-- Registered domain on GoDaddy
-- lizainherelement.ca  
+- TBD
 
 ### Frontend
 
