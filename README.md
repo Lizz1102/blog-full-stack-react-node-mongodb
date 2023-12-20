@@ -27,7 +27,7 @@ Phase 1: Documenting important steps.
 
 ### Database
 - MongoDB. For Windows, install MongoDB via MSI, then add the bin to the path - https://stackoverflow.com/questions/15053893/mongo-command-not-recognized-when-trying-to-connect-to-a-mongodb-server. Next, install MongoDB shell(mongosh) via MSI. 
-- mongod --dbpath .\mongo-db-data\; mongosh; use react-blog-db; 
+- mongod --dbpath .\mongo-db-data\; mongosh; use react-blog-db; npm install mongodb; 
 
 ## TODOs
 
