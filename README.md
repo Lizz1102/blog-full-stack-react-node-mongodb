@@ -15,7 +15,7 @@ Phase 1: Documenting important steps.
 
 - React
 - React Routing
--  npx create-react-app my-blog; cd .\my-blog\; npm install react-router-dom@6; npm start  
+- npx create-react-app my-blog; cd .\my-blog\; npm install react-router-dom@6; npm start  
 
 ### Backend
 
@@ -23,7 +23,11 @@ Phase 1: Documenting important steps.
 - Created node.js server with Express aka Express server 
 - Commands to set up an express server: cd ..;  mkdir my-blog-backend; code .\my-blog-backend\; npm init -y; npm install express; node src/server.js
 - Express server API testing - Postman
-- npm install nodemon --save-dev; npx nodemon src/server.js; npm run dev  //watch changes in dev environment automatically   
+- npm install nodemon --save-dev; npx nodemon src/server.js; npm run dev  //watch changes in dev environment automatically
+
+### Database
+- MongoDB. For Windows, install MongoDB via MSI, then add the bin to the path - https://stackoverflow.com/questions/15053893/mongo-command-not-recognized-when-trying-to-connect-to-a-mongodb-server. Next, install MongoDB shell(mongosh) via MSI. 
+- mongod --dbpath .\mongo-db-data\; mongosh; use react-blog-db; 
 
 ## TODOs
 
