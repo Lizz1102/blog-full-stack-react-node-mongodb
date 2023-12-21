@@ -38,6 +38,7 @@ Phase 1: Documenting important steps.
 - Using a proxy to resolve CORS for now(in the frontend package.json) 
 - Post article instead of static data
 - Use unique IDs instead of enforcing unique article name
+- Need unique comment ids 
 - Where do I host the database?
 - Where do I host my website? 
 
