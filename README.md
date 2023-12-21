@@ -27,6 +27,9 @@ Phase 1: Documenting important steps.
 ### Database
 - MongoDB. For Windows, install MongoDB via MSI, then add the bin to the path - https://stackoverflow.com/questions/15053893/mongo-command-not-recognized-when-trying-to-connect-to-a-mongodb-server. Next, install MongoDB shell(mongosh) via MSI. 
 - mongod --dbpath .\mongo-db-data\; mongosh; use react-blog-db; npm install mongodb;
+- Install Compass - MongoDB IDE
+- To inspect from mongosh, navigate to mongo-db-data; mongosh; use react-blog-db; db.articles.find();
+- spirit-animal, liza-startup-ideas, the-art-of-joy. need to implement articles in the database, rn only these 3, so if I want to load other articles, it's not handled. TODO.  
 
 ### Connect the Frontend and Backend
 
