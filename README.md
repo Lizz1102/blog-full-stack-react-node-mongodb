@@ -32,10 +32,13 @@ Phase 1: Documenting important steps.
 - spirit-animal, liza-startup-ideas, the-art-of-joy. need to implement articles in the database, rn only these 3, so if I want to load other articles, it's not handled. TODO.  
 
 ### Connect the Frontend and Backend
-
 - Axios library
 - cd ..; code .; npm install axios; 
 - React hooks
+
+### User Authentication
+- Firebase Auth
+- 
 
 ### Not Yet Resolved
 - Using a proxy to resolve CORS for now(in the frontend package.json) 
