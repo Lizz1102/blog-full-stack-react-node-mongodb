@@ -41,7 +41,7 @@ Phase 1: Documenting important steps.
 - Using a proxy to resolve CORS for now(in the frontend package.json) 
 - Post article instead of static data
 - Use unique IDs instead of enforcing unique article name
-- Need unique comment ids 
+- Need unique comment IDs 
 - Where do I host the database?
 - Where do I host my website? 
 
@@ -49,9 +49,11 @@ Phase 1: Documenting important steps.
 
 ### Short-term
 
+- [ ] Display Pictures(Important)
 - [ ] Refactor for scalability, testability, and maintainability
 - [ ] Update the UI design for better accessibility
 - [ ] Write unit tests for the user authentication module
+- [ ] Add reply to a comment
 
 ### Long-term
 
