@@ -8,7 +8,7 @@ Phase 1: Documenting important steps.
 
 ### Domain 
 
-- TBD
+- bringall5ofyou.com
 
 ### Frontend
 
