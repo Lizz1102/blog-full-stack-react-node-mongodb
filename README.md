@@ -8,7 +8,7 @@ Phase 1: Documenting important steps.
 
 ### Domain 
 
-- bringall5ofyou.com
+- lookat-her.com TODO: Find a better name?? Decide before publishing 
 
 ### Frontend
 
@@ -38,7 +38,7 @@ Phase 1: Documenting important steps.
 
 ### User Authentication
 - Firebase Auth
-- 
+- npm install firebase; 
 
 ### Not Yet Resolved
 - Using a proxy to resolve CORS for now(in the frontend package.json) 
