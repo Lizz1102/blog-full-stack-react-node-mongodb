@@ -9,7 +9,7 @@ Phase 1: Documenting important steps.
 ### Domain 
 
 - lookat-her.com TODO: Find a better name?? Decide before publishing
-- Baby step. Publish something small. Don't overthink. Let go of perfectionism. Focus is 'doing it'.  
+- LESS IS MORE. Baby step. Publish something small. Don't overthink. Let go of perfectionism. Focus is 'doing it'.  
 
 ### Frontend
 
