@@ -53,6 +53,7 @@ Phase 1: Documenting important steps.
 ### Short-term
 
 - [ ] Display Pictures(Important)
+- [ ] Add LinkedIn login? Don't add anonymous commenting, we don't want chaos. It's my home, so I'd rather love less comments with authenticity 
 - [ ] Refactor for scalability, testability, and maintainability
 - [ ] Update the UI design for better accessibility
 - [ ] Write unit tests for the user authentication module
