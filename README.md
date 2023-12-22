@@ -1,6 +1,6 @@
 # Personal Blog Site - TBD 
 
-Simplicity. Showcase full-stack web app development. Coding/Architecture Best Practices. Buy domain. Build a personal brand. 
+Simplicity. Showcase full-stack web app development. Coding/Architecture Best Practices. 
 
 ## Project Ongoing Documentation Draft
 
@@ -8,8 +8,8 @@ Phase 1: Documenting important steps.
 
 ### Domain 
 
-- lookat-her.com TODO: Find a better name?? Decide before publishing
-- LESS IS MORE. Baby step. Publish something small. Don't overthink. Let go of perfectionism. Focus is 'doing it'.  
+- Name. Personal? Tech? TBD 
+- LESS IS MORE
 
 ### Frontend
 
