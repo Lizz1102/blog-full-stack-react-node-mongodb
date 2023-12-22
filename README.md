@@ -39,7 +39,9 @@ Phase 1: Documenting important steps.
 
 ### User Authentication
 - Firebase Auth
-- npm install firebase; 
+- npm install firebase;
+- Custom auth hook
+- 
 
 ### Not Yet Resolved
 - Using a proxy to resolve CORS for now(in the frontend package.json) 
