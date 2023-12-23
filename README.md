@@ -1,6 +1,6 @@
 # Personal Blog Site - TBD 
 
-Simplicity. Showcase full-stack web app development. Coding/Architecture Best Practices. 
+Showcases full-stack web app development, MERN stack, developed utilizing JavaScript Libraries and frameworks. Coding/Architecture Best Practices. 
 
 ## Project Ongoing Documentation Draft
 
@@ -9,7 +9,7 @@ Phase 1: Documenting important steps.
 ### Domain 
 
 - Name. Personal? Tech? TBD 
-- LESS IS MORE
+- LESS IS MORE - Simplicity
 
 ### Frontend
 
@@ -26,6 +26,7 @@ Phase 1: Documenting important steps.
 - npm install nodemon --save-dev; npx nodemon src/server.js; npm run dev  //watch changes in dev environment automatically
 
 ### Database
+
 - MongoDB. For Windows, install MongoDB via MSI, then add the bin to the path - https://stackoverflow.com/questions/15053893/mongo-command-not-recognized-when-trying-to-connect-to-a-mongodb-server. Next, install MongoDB shell(mongosh) via MSI. 
 - mongod --dbpath .\mongo-db-data\; mongosh; use react-blog-db; npm install mongodb;
 - Install Compass - MongoDB IDE
@@ -33,21 +34,25 @@ Phase 1: Documenting important steps.
 - spirit-animal, liza-startup-ideas, the-art-of-joy. need to implement articles in the database, rn only these 3, so if I want to load other articles, it's not handled. TODO.  
 
 ### Connect the Frontend and Backend
+
 - Axios library
 - cd ..; code .; npm install axios; 
 - React hooks
 
 ### User Authentication
+
 - Firebase Auth
 - npm install firebase;
 - Custom auth hook
 - npm install firebase-admin;
 
 ### iSSUES
+
 - [ ] Shows already upvoted but can upvote still once
 - [ ] Check -> logout -> comments list disappears, w errors in console like i index error 
 
 ### Not Yet Resolved
+
 - Using a proxy to resolve CORS for now(in the frontend package.json) 
 - Post article instead of static data
 - Use unique IDs instead of enforcing unique article name
