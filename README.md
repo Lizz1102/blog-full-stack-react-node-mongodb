@@ -1,6 +1,6 @@
 # Personal Blog Site - TBD 
 
-Showcases full-stack web app development, MERN stack, developed utilizing JavaScript Libraries and frameworks. Coding/Architecture Best Practices. 
+Showcases full-stack web app development, developed utilizing JavaScript Libraries and frameworks - MERN stack(MongoDB, Express, React, Node), Axios, Firebase.  
 
 ## Project Ongoing Documentation Draft
 
@@ -46,7 +46,7 @@ Phase 1: Documenting important steps.
 - Custom auth hook
 - npm install firebase-admin;
 
-### iSSUES
+### Issues
 
 - [ ] Shows already upvoted but can upvote still once
 - [ ] Check -> logout -> comments list disappears, w errors in console like i index error 
@@ -64,6 +64,7 @@ Phase 1: Documenting important steps.
 
 ### Short-term
 
+- [ ] Test thoroughly before release. Essential features but a smooth, great experience
 - [ ] Display Pictures(Important)
 - [ ] Add LinkedIn login? Don't add anonymous commenting, we don't want chaos. It's my home, so I'd rather love less comments with authenticity 
 - [ ] Refactor for scalability, testability, and maintainability
