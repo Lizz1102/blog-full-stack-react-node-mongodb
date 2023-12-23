@@ -58,7 +58,7 @@ const ArticlePage = () => {
             <div className="upvotes-section">
                 {user ? (
                     <button onClick={addUpvote}>
-                        {canUpvote ? "Upvote" : "Already Upvoted"}
+                        {canUpvote ? "Upvote" : "Upvoted"}
                     </button>
                 ) : (
                     <button>Log in to upvote</button>
@@ -76,7 +76,7 @@ const ArticlePage = () => {
                     }
                 />
             ) : (
-                <button>Log in to add a comment</button>
+                <button>Log in to comment</button>
             )}
             <CommentsList comments={articleInfo.comments} />
         </>
