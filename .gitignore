@@ -25,3 +25,5 @@ desktop.ini
 
 # Ignore MongoDB data directory
 my-blog-backend/mongo-db-data/
+
+**/credentials.json
