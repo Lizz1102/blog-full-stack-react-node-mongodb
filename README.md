@@ -41,7 +41,11 @@ Phase 1: Documenting important steps.
 - Firebase Auth
 - npm install firebase;
 - Custom auth hook
-- 
+- npm install firebase-admin;
+
+### iSSUES
+- [ ] Shows already upvoted but can upvote still once
+- [ ] Check -> logout -> comments list disappears, w errors in console like i index error 
 
 ### Not Yet Resolved
 - Using a proxy to resolve CORS for now(in the frontend package.json) 
