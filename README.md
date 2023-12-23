@@ -82,7 +82,7 @@ Phase 1: Documenting important steps.
 
 - [ ] Pretty UI
 - [ ] Media (pictures, videos)
-- [ ] Smooth navigation 
+- [ ] Smooth user experience 
 
 ## Credits
 
