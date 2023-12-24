@@ -3,11 +3,13 @@ import { MongoClient } from "mongodb";
 let db;
 
 async function connectToDb(cb) {
-  const client = new MongoClient("mongodb://127.0.0.1:27017");
-  await client.connect();
+    const client = new MongoClient(
+        `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@cluster0.isdim2b.mongodb.net/?retryWrites=true&w=majority`
+    );
+    await client.connect();
 
-  db = client.db("react-blog-db");
-  cb();
+    db = client.db("react-blog-db");
+    cb();
 }
 
 export { db, connectToDb };
