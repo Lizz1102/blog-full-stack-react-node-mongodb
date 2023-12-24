@@ -48,8 +48,7 @@ Phase 1: Documenting important steps.
 
 ### Hosting 
 
-- Prepare for release
-- - hhh
+- Prepare for release - npm run build; 
 
 ### Not Yet Resolved
 
