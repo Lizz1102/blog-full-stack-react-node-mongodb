@@ -46,6 +46,11 @@ Phase 1: Documenting important steps.
 - Custom auth hook
 - npm install firebase-admin;
 
+### Hosting 
+
+- Prepare for release
+- - hhh
+
 ### Not Yet Resolved
 
 - Using a proxy to resolve CORS for now(in the frontend package.json) 
