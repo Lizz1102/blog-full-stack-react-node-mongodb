@@ -48,7 +48,9 @@ Phase 1: Documenting important steps.
 
 ### Hosting 
 
-- Prepare for release - npm run build; 
+- Prepare for release - npm run build;
+- Hosting MongoDB - https://www.mongodb.com/atlas/database
+- npm install dotenv; 
 
 ### Not Yet Resolved
 
