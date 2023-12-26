@@ -1,6 +1,6 @@
 # Personal Blog Site - TBD 
 
-Showcases full-stack web app development, developed utilizing JavaScript Libraries and frameworks - MERN stack(MongoDB, Express, React, Node), Axios, Firebase.  
+Showcases full-stack web app development, developed utilizing JavaScript Libraries and frameworks - MERN stack(MongoDB, Express, React, Node), Axios, Firebase, hosted on Google Cloud.  
 
 ## Project Ongoing Documentation Draft
 
@@ -46,11 +46,17 @@ Phase 1: Documenting important steps.
 - Custom auth hook
 - npm install firebase-admin;
 
-### Hosting 
+### Hosting Database
 
 - Prepare for release - npm run build;
 - Hosting MongoDB - https://www.mongodb.com/atlas/database
-- npm install dotenv; 
+- npm install dotenv;
+
+### Hosting the Web App
+
+- GCP (https://console.cloud.google.com/)
+- gcloud init; gcloud auth login; gcloud config set project PROJECT_ID; gcloud app deploy;
+- https://my-react-blog-8cc92.ue.r.appspot.com/ 
 
 ### Not Yet Resolved
 
