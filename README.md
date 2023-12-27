@@ -48,14 +48,14 @@ Phase 1: Documenting important steps.
 
 ### Hosting Database
 
-- Prepare for release - npm run build;
+- Prepare for release - npm run build; // inside frontend project folder
 - Hosting MongoDB - https://www.mongodb.com/atlas/database
 - npm install dotenv;
 
 ### Hosting the Web App
 
 - GCP (https://console.cloud.google.com/)
-- gcloud init; gcloud auth login; gcloud config set project PROJECT_ID; gcloud app deploy;
+- gcloud init; gcloud auth login; gcloud config set project PROJECT_ID; gcloud app deploy; // inside backend project folder
 - https://my-react-blog-8cc92.ue.r.appspot.com/ 
 
 ### Not Yet Resolved
