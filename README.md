@@ -1,4 +1,4 @@
-# Personal Blog Site - TBD 
+# Personal Blog Site - Imperfectionist Ink 
 
 Showcases full-stack web app development, developed utilizing JavaScript Libraries and frameworks - MERN stack(MongoDB, Express, React, Node), Axios, Firebase, hosted on Google Cloud.  
 
@@ -6,10 +6,9 @@ Showcases full-stack web app development, developed utilizing JavaScript Librari
 
 Phase 1: Documenting important steps. 
 
-### Domain 
+### Live Link 
 
-- Name. Personal? Tech? TBD 
-- LESS IS MORE - Simplicity
+- https://imperfectionist.ink/ 
 
 ### Frontend
 
